@@ -11,4 +11,4 @@
 
 ## Hey there 👋
 
-More than 10 years of experience building and maintaining web-based applications. Experienced with all stages of the development cycle for dynamic web projects. I specialize in web site development using PHP (Laravel, Codeigniter), Vue.js, JavaScript, HTML5, Tailwind CSS, CSS3 and MySQL.
+With over 10 years of experience, I have a strong background in developing and maintaining web-based applications. My expertise lies in PHP (Laravel, Codeigniter), Vue.js, JavaScript, HTML5, Tailwind CSS, CSS3, and MySQL. Throughout my career, I have successfully contributed to all stages of the development cycle for dynamic web projects.
